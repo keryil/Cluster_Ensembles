@@ -41,6 +41,7 @@ In: IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 7, 1, pp. 
 
 
 import functools
+from functools import reduce
 import gc
 import numbers
 import numpy as np
